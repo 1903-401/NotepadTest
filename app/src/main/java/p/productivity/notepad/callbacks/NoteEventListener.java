@@ -4,14 +4,14 @@ import p.productivity.notepad.model.Note;
 
 public interface NoteEventListener {
     /**
-     * call wen note clicked.
+     * call when note clicked.
      *
      * @param note: note item
      */
     void onNoteClick(Note note);
 
     /**
-     * call wen long Click to note.
+     * call when long Click to note.
      *
      * @param note : item
      */

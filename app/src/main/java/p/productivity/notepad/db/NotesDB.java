@@ -1,6 +1,5 @@
 package p.productivity.notepad.db;
 
-
 import android.content.Context;
 
 import androidx.room.Database;
